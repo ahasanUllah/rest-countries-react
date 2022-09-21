@@ -1,0 +1,7 @@
+.country {
+   background-color: rgba(128, 128, 128, 0.212);
+   padding: 10px;
+}
+.country img {
+   width: 50px;
+}
